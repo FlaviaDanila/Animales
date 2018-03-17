@@ -12,7 +12,7 @@ public class TestAnimales {
     }
     
     public static void miMascota(Mascota m) {
-        m.getNombre();
+        //EN ESTO ME QUEDE, ESTE EJERCICIO ES UNA PORQUERIA!
     }
 
     public static void main(String[] args) {
