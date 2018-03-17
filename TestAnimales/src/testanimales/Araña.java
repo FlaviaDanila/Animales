@@ -6,7 +6,7 @@ package testanimales;
  * @author Yaki's
  */
 
-public class Araña extends Animal {
+public class Araña extends Patas {
     
     public Araña() {
         
