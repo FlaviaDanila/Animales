@@ -27,7 +27,9 @@ public abstract class Animal {
     }
     
     public void setPatas(int patas) {
-        
+        this.patas = patas;
     }
+    
+    
     
 }
