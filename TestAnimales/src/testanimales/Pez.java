@@ -8,6 +8,12 @@ package testanimales;
 
 public class Pez extends Animal{
    
+    public Pez() {
+        
+    }
     
+    public void comer() {
+        
+    }
     
 }
