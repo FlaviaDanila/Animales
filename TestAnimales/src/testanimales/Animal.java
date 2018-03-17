@@ -1,14 +1,33 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package testanimales;
 
 /**
  *
  * @author Yaki's
  */
-public class Animal {
+
+public abstract class Animal {
+    
+    private int patas;
+    
+    public Animal() {
+        
+    }
+    
+    public Animal(int patas) {
+        this.patas = patas;
+    }
+    
+    public void comer() {
+        
+    }
+    
+    public int getPatas() {
+     return this.patas;   
+    }
+    
+    public void setPatas(int patas) {
+        
+    }
     
 }
