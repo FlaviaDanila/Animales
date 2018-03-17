@@ -6,9 +6,15 @@ package testanimales;
  * @author Yaki's
  */
 
-public class Gato extends Patas{
+public class Gato extends Patas implements Mascota{
+    
+    private String nombre;
     
     public Gato() {
+        
+    }
+    
+    public Gato(String nombre) {
         
     }
     

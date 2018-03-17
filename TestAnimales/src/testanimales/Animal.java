@@ -14,17 +14,15 @@ public abstract class Animal {
         
     }
     
+    public void comer() {
+        
+    
 /* este constructor y sus get&set van a Class Patas
     public Animal(int patas) {
         this.patas = patas;
     }
-*/
     
-    public void comer() {
-        
-    }
-    
-/*   public int getPatas() {
+   public int getPatas() {
      return this.patas;   
     }
     
