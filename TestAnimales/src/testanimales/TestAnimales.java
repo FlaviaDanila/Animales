@@ -10,6 +10,10 @@ public class TestAnimales {
     public static void mostrarQueCome(Animal a) {
         a.comer();
     }
+    
+    public static void miMascota(Mascota m) {
+        m.getNombre();
+    }
 
     public static void main(String[] args) {
 
@@ -21,6 +25,12 @@ public class TestAnimales {
         spider.comer();
         cat.comer();
         fish.comer();
+        
+        cat.jugar();
+        fish.jugar();
+        
+        cat.getNombre();
+        fish.getNombre();
     }
 
 }

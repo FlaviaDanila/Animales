@@ -8,6 +8,11 @@ package testanimales;
 
 public interface Mascota {
     
+    public void jugar();
+
+    
+    
+    
     
     
 }

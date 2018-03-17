@@ -18,12 +18,14 @@ public abstract class Patas extends Animal{
         this.patas = patas;
     }
     
+    public void setPatas(int patas) {
+        this.patas = patas;
+    }
+        
      public int getPatas() {
      return this.patas;   
     }
     
-    public void setPatas(int patas) {
-        this.patas = patas;
-    }
+     
     
 }
