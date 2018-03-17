@@ -14,6 +14,7 @@ public class TestAnimales {
     public static void miMascota(Mascota m) {
         //EN ESTO ME QUEDE, ESTE EJERCICIO ES UNA PORQUERIA!
         //Filmina 93 Animales Parte 5
+        //porque la interfas va en otro paquete? yo creo que no
     }
 
     public static void main(String[] args) {
