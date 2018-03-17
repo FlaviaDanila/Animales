@@ -12,6 +12,7 @@ public class Pez extends Animal{
         
     }
     
+    @Override
     public void comer() {
         
     }

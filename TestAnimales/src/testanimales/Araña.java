@@ -12,6 +12,7 @@ public class Araña extends Animal {
         
     }
     
+    @Override
     public void comer() {
         
     }
