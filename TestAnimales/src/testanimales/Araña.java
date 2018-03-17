@@ -14,7 +14,7 @@ public class Araña extends Animal {
     
     @Override
     public void comer() {
-        
+        System.out.println("La araña come insectos");
     }
     
 }
