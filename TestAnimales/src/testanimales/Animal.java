@@ -16,8 +16,10 @@ public abstract class Animal {
     
     public void comer() {
         
+    }
     
-/* este constructor y sus get&set van a Class Patas
+
+/* Este contructor y sus get&set los pasé a Class Patas
     public Animal(int patas) {
         this.patas = patas;
     }
@@ -29,6 +31,6 @@ public abstract class Animal {
     public void setPatas(int patas) {
         this.patas = patas;
     }
-*/    
+*/
     
 }

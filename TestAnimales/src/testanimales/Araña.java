@@ -9,7 +9,7 @@ package testanimales;
 public class Araña extends Patas {
     
     public Araña() {
-        
+     super(8);   
     }
     
     @Override
