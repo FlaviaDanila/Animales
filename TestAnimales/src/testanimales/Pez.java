@@ -1,5 +1,7 @@
 package testanimales;
 
+import Interfaces.Mascota;
+
 /**
  *
  * @author Yaki's

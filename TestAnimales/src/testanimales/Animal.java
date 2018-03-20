@@ -22,6 +22,20 @@ public abstract class Animal implements Sonidos, Comparables {
         
     }
     
+        @Override
+    public void emitirSonido() {
+        
+    }
+
+        @Override
+    public String getSonido() {
+        return this.sonido;
+    }
+
+        @Override
+    public void setSonido(String sonido) {
+        
+    }
 
 /* Este contructor y sus get&set los pasé a Class Patas
     public Animal(int patas) {

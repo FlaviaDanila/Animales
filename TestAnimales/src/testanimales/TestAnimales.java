@@ -2,6 +2,7 @@ package testanimales;
 
 import Interfaces.Comparables;
 import Interfaces.Sonidos;
+import Interfaces.Mascota;
 
 /**
  *

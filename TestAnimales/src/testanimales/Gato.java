@@ -1,5 +1,6 @@
 
 package testanimales;
+
 import Interfaces.Mascota;
 
 public class Gato extends Patas implements Mascota {
