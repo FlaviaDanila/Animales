@@ -6,7 +6,7 @@ import Interfaces.Sonidos;
 
 /**
  *
- * @author Yaki's
+ * @author Cele&Fla
  */
 
 public abstract class Animal implements Sonidos, Comparables {

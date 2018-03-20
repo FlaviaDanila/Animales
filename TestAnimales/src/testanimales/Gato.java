@@ -3,6 +3,11 @@ package testanimales;
 
 import Interfaces.Mascota;
 
+/**
+ *
+ * @author Cele&Fla
+ */
+
 public class Gato extends Patas implements Mascota {
     
     private String nombre;

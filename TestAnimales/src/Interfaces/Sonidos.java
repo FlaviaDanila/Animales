@@ -3,11 +3,8 @@ package Interfaces;
 
 /**
  *
- * @author Yaki's
- */
-
-
-    
+ * @author Cele&Fla
+ */  
 
 public interface Sonidos {
     

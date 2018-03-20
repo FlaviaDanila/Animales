@@ -3,7 +3,7 @@ package testanimales;
 
 /**
  *
- * @author Yaki's
+ * @author Cele&Fla
  */
 
 public class Araña extends Patas {

@@ -5,7 +5,7 @@ import Interfaces.Mascota;
 
 /**
  *
- * @author Yaki's
+ * @author Cele&Fla
  */
 
 public class Perro extends Patas implements Mascota{
