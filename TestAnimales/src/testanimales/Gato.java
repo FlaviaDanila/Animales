@@ -1,10 +1,6 @@
 
 package testanimales;
-
-/**
- *
- * @author Yaki's
- */
+import Interfaces.Mascota;
 
 public class Gato extends Patas implements Mascota {
     
