@@ -29,16 +29,20 @@ public class TestAnimales {
         Araña spider = new Araña();
         Gato cat = new Gato();
         Pez fish = new Pez();
+        Perro dog = new Perro();
 
         spider.comer();
         cat.comer();
         fish.comer();
+        dog.comer();
         
         cat.jugar();
         fish.jugar();
+        dog.jugar();
         
         cat.getNombre();
         fish.getNombre();
+        dog.getNombre();
     }
 
 }

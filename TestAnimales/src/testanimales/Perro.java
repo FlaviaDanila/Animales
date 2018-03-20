@@ -10,6 +10,24 @@ import Interfaces.Mascota;
 
 public class Perro extends Patas implements Mascota{
 
+    private String nombre;
+    
+    public Perro() {
+        super(4);
+    }
+    
+    public Perro (String nombre) {
+        
+    }
+    
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+    
+    public String getNombre() {
+        return this.nombre;
+    }
+    
         @Override
     public void jugar() {
         System.out.println("El perro juega con pelotas");
