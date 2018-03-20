@@ -9,6 +9,7 @@ package testanimales;
 public abstract class Animal {
     
     //private int patas;
+    private String sonido;
     
     public Animal() {
         
