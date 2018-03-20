@@ -1,12 +1,15 @@
 
 package testanimales;
 
+import Interfaces.Comparables;
+import Interfaces.Sonidos;
+
 /**
  *
  * @author Yaki's
  */
 
-public abstract class Animal {
+public abstract class Animal implements Sonidos, Comparables {
     
     //private int patas;
     private String sonido;

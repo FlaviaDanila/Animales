@@ -1,5 +1,8 @@
 package testanimales;
 
+import Interfaces.Comparables;
+import Interfaces.Sonidos;
+
 /**
  *
  * @author Yaki's
